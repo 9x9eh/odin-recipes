@@ -1,0 +1,21 @@
+body {
+    background-image:url(../recipes/kitchen.jpg);
+}
+
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+a {
+    color: darkgreen;
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+.options {
+    background-color: transparent;
+    width: 200px;
+}

@@ -1,0 +1,36 @@
+body {
+    background-color: #f2e8d5;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: start;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+ol {
+    list-style: none;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+hr {
+    background-color: black;
+    height: 10px;
+}
